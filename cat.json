@@ -77,11 +77,6 @@
 "
 },
   {
-"category":"Art",
-"image":"https://user-images.githubusercontent.com/16912775/33467606-ac2887a4-d67b-11e7-9f91-ce11fb1f6e5c.png
-"
-},
-  {
 "category":"Alone",
 "image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/alone.png"
 },
@@ -293,6 +288,10 @@
 "category":"Music",
 "image":"https://user-images.githubusercontent.com/16912775/33467606-ac2887a4-d67b-11e7-9f91-ce11fb1f6e5c.png
 "
+},
+    {
+"category":"Love",
+"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/love.png"
 },
      {
 "category":"Naughty",
