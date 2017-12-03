@@ -1,336 +1,327 @@
 {
-"Quotesapp":
-[
+    "Quotesapp": [
+        {
+            "category": "Anniversary",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/anniversary.png"
+        },
+       
+        {
+            "category": "Awesome",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/awesome.png"
+        },
+        {
+            "category": "Amazing",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/amzing.png"
+        },
+        {
+            "category": "Attitude",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/attitude.png"
+        },
+        {
+            "category": "Ambition",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/ambition.png"
+        },
+        {
+            "category": "Angel",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/angel.png"
+        },
+        {
+            "category": "Animals",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/animals.png"
+        },
+        {
+            "category": "Apology",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/apology.png"
+        },
+        {
+            "category": "Art",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/art.png"
+        },
+        {
+            "category": "Alone",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/alonee.png"
+        },
+        {
+            "category": "Angry",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/angry.png"
+        },
+        {
+            "category": "Beard",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/beard.png"
+        },
+        {
+            "category": "Bike",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/bike.png"
+        },
+        {
+            "category": "Boys",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/boy.png"
+        },
+        {
+            "category": "Brother",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/brother.png"
+        },
+        {
+            "category": "Busy",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/busy.png"
+        },
+        {
+            "category": "Breakup",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/breakup.png"
+        },
+ {
+            "category": "Cool",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/cooll.png"
+        },
+        {
+            "category": "Cheat",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/cheat.png"
+        },
+        {
+            "category": "Childhood",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/childhood.png"
+        },
+        {
+            "category": "Classy",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/classy.png"
+        },
+        {
+            "category": "Clever",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/clever.png"
+        },
+        {
+            "category": "Couple",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/couple.png"
+        },
+        {
+            "category": "Crazy",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/crazy.png"
+        },
+        {
+            "category": "Creative",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/creative.png"
+        },
+       
+        {
+            "category": "Death",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/death.png"
+        },
+        {
+            "category": "Emotional",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/emotional.png"
+        },
+        {
+            "category": "Exam",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/exam.png"
+        },
+        {
+            "category": "Faith",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/faith.png"
+        },
+        {
+            "category": "Family",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/family.png"
+        },
+        {
+            "category": "Fever",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/fever.png"
+        },
+        {
+            "category": "Flirt",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/flirt.png"
+        },
+        {
+            "category": "Funny",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/funny.png"
+        },
+ {
+            "category": "Friendship",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/friendship.png"
+        },
+        {
+            "category": "God Status",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/god.png"
+        },
+       
+        {
+            "category": "Good Morning",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/goodmorning.png"
+        },
+        {
+            "category": "Good Night",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/good%20night.png"
+        },
+        {
+            "category": "Happy",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/happy.png"
+        },
+ {
+            "category": "Happy Birthday",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/hbd.png"
+        },
+        {
+            "category": "Hope",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/hope.png"
+        },
+        {
+            "category": "Hot",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/hot.png"
+        },
+        {
+            "category": "Hurt",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/hurt.png"
+        },
+        {
+            "category": "Husband",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/husband.png"
+        },
 {
-"category":"Inspiration",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/inspiration.png"
-},
-  {
-"category":"Happy Birthday",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/hbd.png"
-},
-  {
-"category":"Anniversary",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/anniversary.png"
-},
+            "category": "Heart touching",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/hearttouching.png"
+        },
 {
-"category":"Love",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/love.png"
-},
-  {
-"category":"Awesome",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/awesome.png"
-},
+            "category": "Inspiration",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/inspiration.png"
+        },
+        {
+            "category": "Insult",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/insult.png"
+        },
+        {
+            "category": "Jealous",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/jealous.png"
+        },
+        {
+            "category": "Kids",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/kids.png"
+        },
+        {
+            "category": "Kiss",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/kiss.png"
+        },
+ {
+            "category": "Love",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/love.png"
+        },
+        {
+            "category": "Lazy",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/lazy.png"
+        },
 {
-"category":"Leadership",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/leadership.png"
-},
-{
-"category":"Cool",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/cooll.png"
-},
-{
-"category":"Funny",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/funny.png"
-},
-{
-"category":"Heart touching",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/hearttouching.png"
-},
-{
-"category":"Amazing",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/amzing.png"
-},
-  {
-"category":"Attitude",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/attitude.png"
-},
-{
-"category":"Ambition",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/ambition.png"
-},
-{
-"category":"Angel",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/angel.png"
-},
-{
-"category":"Animals",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/animals.png"
-},
-{
-"category":"Apology",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/apology.png"
-},
-{
-"category":"Friendship",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/friendship.png"
-},
-  {
-"category":"Sad",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/sad.png"
-},
-  {
-"category":"Art",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/art.png"
-},
-  {
-"category":"Alone",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/alonee.png"
-},
-  {
-"category":"Angry",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/angry.png"
-},
-  {
-"category":"Beard",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/beard.png"
-},
-  {
-"category":"Bike",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/bike.png"
-},
-  {
-"category":"Boys",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/boy.png"
-},
-  {
-"category":"Brother",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/brother.png"
-},
-   {
-"category":"Busy",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/busy.png"
-},
-   {
-"category":"Breakup",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/breakup.png"
-},
-   {
-"category":"Cheat",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/cheat.png"
-},
-   {
-"category":"Childhood",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/childhood.png"
-},
-   {
-"category":"Classy",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/classy.png"
-},
-   {
-"category":"Clever",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/clever.png"
-},
-   {
-"category":"Couple",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/couple.png"
-},
-   {
-"category":"Crazy",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/crazy.png"
-},
-   {
-"category":"Creative",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/creative.png"
-},
-   {
-"category":"Emotional",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/emotional.png"
-},
-     {
-"category":"Death",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/death.png"
-},
-     {
-"category":"Exam",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/exam.png"
-},
-     {
-"category":"Faith",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/faith.png"
-},
-     {
-"category":"Family",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/family.png"
-},
-     {
-"category":"Fever",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/fever.png"
-},
-     {
-"category":"Flirt",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/flirt.png"
-},
-     {
-"category":"God Status",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/god.png"
-},
-     {
-"category":"Good Morning",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/goodmorning.png"
-},
-     {
-"category":"Good Night",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/good%20night.png"
-},
-      {
-"category":"Happy",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/happy.png"
-},
-      {
-"category":"Hope",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/hope.png"
-},
-      {
-"category":"Hot",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/hot.png"
-},
-      {
-"category":"Hurt",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/hurt.png"
-},
-      {
-"category":"Husband",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/husband.png"
-},
-      {
-"category":"Insult",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/insult.png"
-},
-      {
-"category":"Jealous",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/jealous.png"
-},
-     {
-"category":"Kids",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/kids.png"
-},
-     {
-"category":"Kiss",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/kiss.png"
-},
-     {
-"category":"Lazy",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/lazy.png"
-},
-     {
-"category":"Marriage",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/marriage.png"
-},
-     {
-"category":"Missing",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/missing.png"
-},
-     {
-"category":"Motivational",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/motivational.png"
-},
-     {
-"category":"Music",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/music.png"
-},
-     {
-"category":"Naughty",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/naughty.png"
-},
-     {
-"category":"Nice",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/nice.png"
-},
-     {
-"category":"Pain",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/pain.png"
-},
-     {
-"category":"Problem",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/problem.png"
-},
-     {
-"category":"Positive",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/positive.png"
-},
-     {
-"category":"Rain",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/rain.png"
-},
-     {
-"category":"Relationship",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/relationship.png"
-},
-     {
-"category":"Romantic",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/romantic.png"
-},
-     {
-"category":"Selfie",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/selfie.png"
-},
-  
-     {
-"category":"Sick",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/sick.png"
-},
-  
-     {
-"category":"Single",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/single.png"
-},
-  
-     {
-"category":"Sister",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/sister.png"
-},
-  
-     {
-"category":"Sorry",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/sorry.png"
-},
-  
-     {
-"category":"Study",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/studyy.png"
-},
-  
-     {
-"category":"Success",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/success.png"
-},
-  
-     {
-"category":"Summer",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/summer.png"
-},
-  
-     {
-"category":"Sweet",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/sweet.png"
-},
-  
-     {
-"category":"Tension",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/tension.png"
-},
-  
-     {
-"category":"Trust",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/trust.png"
-},
-  
-     {
-"category":"Wedding",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/wedding.png"
-},
-     {
-"category":"Wise",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/wise.png"
-},
-     {
-"category":"Winter",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/winter.png"
-},
-     {
-"category":"Life",
-"image":"https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/life.png"
-}
-]
+            "category": "Leadership",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/leadership.png"
+        },
+        {
+            "category": "Marriage",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/marriage.png"
+        },
+        {
+            "category": "Missing",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/missing.png"
+        },
+        {
+            "category": "Motivational",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/motivational.png"
+        },
+        {
+            "category": "Music",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/music.png"
+        },
+        {
+            "category": "Naughty",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/naughty.png"
+        },
+        {
+            "category": "Nice",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/nice.png"
+        },
+        {
+            "category": "Pain",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/pain.png"
+        },
+        {
+            "category": "Problem",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/problem.png"
+        },
+        {
+            "category": "Positive",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/positive.png"
+        },
+        {
+            "category": "Rain",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/rain.png"
+        },
+        {
+            "category": "Relationship",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/relationship.png"
+        },
+        {
+            "category": "Romantic",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/romantic.png"
+        },
+        {
+            "category": "Sad",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/sad.png"
+        },
+        {
+            "category": "Selfie",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/selfie.png"
+        },
+        {
+            "category": "Sick",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/sick.png"
+        },
+        {
+            "category": "Single",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/single.png"
+        },
+        {
+            "category": "Sister",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/sister.png"
+        },
+        {
+            "category": "Sorry",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/sorry.png"
+        },
+        {
+            "category": "Study",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/studyy.png"
+        },
+        {
+            "category": "Success",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/success.png"
+        },
+        {
+            "category": "Summer",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/summer.png"
+        },
+        {
+            "category": "Sweet",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/sweet.png"
+        },
+        {
+            "category": "Tension",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/tension.png"
+        },
+        {
+            "category": "Trust",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/trust.png"
+        },
+        {
+            "category": "Wedding",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/wedding.png"
+        },
+        {
+            "category": "Wise",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/wise.png"
+        },
+        {
+            "category": "Winter",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/winter.png"
+        },
+        {
+            "category": "Life",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/life.png"
+        }
+    ]
 }
