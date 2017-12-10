@@ -831,6 +831,75 @@
 	  "image" : "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images_gods/karuppasamy.jpg",
 	  "totalTrackCount" : 2,
 	  "duration" : 103
+	},
+	{ "title" : "Aadi Vaara Mari",
+	  "album" : "Aadivara Maari Aadivara",
+	  "artist" : "Unknown",
+	  "genre" : "Amman",
+	  "source" : "http://tamildownloads.net/tamilmp3/load/Devotional%20Songs/006.Aadivara%20Maari%20Aadivara/Aadi%20Vaara%20Mari-Tamildownloads.Net.mp3",
+	  "image" : "",
+	  "totalTrackCount" : 7,
+	  "duration" : 103
+	},
+	
+	{ "title" : "Angala Easwariyam Adhi",
+	  "album" : "Aadivara Maari Aadivara",
+	  "artist" : "Unknown",
+	  "genre" : "Amman",
+	  "source" : "http://tamildownloads.net/tamilmp3/load/Devotional%20Songs/006.Aadivara%20Maari%20Aadivara/Angala%20Easwariyam%20Adhi-Tamildownloads.Net.mp3",
+	  "image" : "",
+	  "totalTrackCount" : 7,
+	  "duration" : 103
+	},
+	
+	{ "title" : "Angala Easwariyeam",
+	  "album" : "Aadivara Maari Aadivara",
+	  "artist" : "Unknown",
+	  "genre" : "Amman",
+	  "source" : "http://tamildownloads.net/tamilmp3/load/Devotional%20Songs/006.Aadivara%20Maari%20Aadivara/Angala%20Easwariyeam-Tamildownloads.Net.mp3",
+	  "image" : "",
+	  "totalTrackCount" : 7,
+	  "duration" : 103
+	},
+	
+	{ "title" : "Maari Alagaparu",
+	  "album" : "Aadivara Maari Aadivara",
+	  "artist" : "Unknown",
+	  "genre" : "Amman",
+	  "source" : "http://tamildownloads.net/tamilmp3/load/Devotional%20Songs/006.Aadivara%20Maari%20Aadivara/Maari%20Alagaparu-Tamildownloads.Net.mp3",
+	  "image" : "",
+	  "totalTrackCount" : 7,
+	  "duration" : 103
+	},
+	
+	{ "title" : "Mangatha Perudaya",
+	  "album" : "Aadivara Maari Aadivara",
+	  "artist" : "Unknown",
+	  "genre" : "Amman",
+	  "source" : "http://tamildownloads.net/tamilmp3/load/Devotional%20Songs/006.Aadivara%20Maari%20Aadivara/Mangatha%20Perudaya-Tamildownloads.Net.mp3",
+	  "image" : "",
+	  "totalTrackCount" : 7,
+	  "duration" : 103
+	},
+	
+	{ "title" : "Vaa Vaa Gajamuganea",
+	  "album" : "Aadivara Maari Aadivara",
+	  "artist" : "Unknown",
+	  "genre" : "Amman",
+	  "source" : "http://tamildownloads.net/tamilmp3/load/Devotional%20Songs/006.Aadivara%20Maari%20Aadivara/Vaa%20Vaa%20Gajamuganea-Tamildownloads.Net.mp3",
+	  "image" : "",
+	  "totalTrackCount" : 7,
+	  "duration" : 103
+	},
+	
+	{ "title" : "vandiyoora Kathavalea",
+	  "album" : "Aadivara Maari Aadivara",
+	  "artist" : "Unknown",
+	  "genre" : "Amman",
+	  "source" : "http://tamildownloads.net/tamilmp3/load/Devotional%20Songs/006.Aadivara%20Maari%20Aadivara/vandiyoora%20Kathavalea-Tamildownloads.Net.mp3",
+	  "image" : "",
+	  "totalTrackCount" : 7,
+	  "duration" : 103
 	}
 	
 ]}
