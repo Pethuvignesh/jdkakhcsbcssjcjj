@@ -186,15 +186,7 @@
 	  "totalTrackCount" : 6,
 	  "duration" : 231.191625 
 	},
-	{ "title" : "சிவபுராணம் பாதம் 1",
-	  "album" : "சிவன் பாடல்கள்",
-	  "artist" : "S P பாலசுப்ரமணியம்",
-	  "genre" : "சிவன் பாடல்கள்",
-	  "source" : "http://download.tamiltunes.live/songs/Devotional/Sivapuranam%20SPB/Sivapuranam%20SPB%2001%20-%20TamilWire.com.mp3",
-	  "image" : "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images_gods/shiva.jpg",
-	  "totalTrackCount" : 6,
-	  "duration" : 964.179592
-	},
+	
 { "title" : "சிவபுராணம் பாதம் 2",
 	  "album" : "சிவன் பாடல்கள்",
 	  "artist" : "S P பாலசுப்ரமணியம்",
@@ -203,6 +195,15 @@
 	  "image" : "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images_gods/shiva.jpg",
 	  "totalTrackCount" : 6,
 	  "duration" :  636.499592
+	},
+	{ "title" : "சிவபுராணம் பாதம் 1",
+	  "album" : "சிவன் பாடல்கள்",
+	  "artist" : "S P பாலசுப்ரமணியம்",
+	  "genre" : "சிவன் பாடல்கள்",
+	  "source" : "http://download.tamiltunes.live/songs/Devotional/Sivapuranam%20SPB/Sivapuranam%20SPB%2001%20-%20TamilWire.com.mp3",
+	  "image" : "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images_gods/shiva.jpg",
+	  "totalTrackCount" : 6,
+	  "duration" : 964.179592
 	},
 { "title" : "சிவபுராணம் பாதம் 3",
 	  "album" : "சிவன் பாடல்கள்",
