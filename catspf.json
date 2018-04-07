@@ -1,0 +1,21 @@
+{
+    "Quotesapp": [
+        {
+            "category": "Facts 1-20",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/anniversary.png"
+        },
+       
+        {
+            "category": "Facts 21-40",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/awesome.png"
+        },
+        {
+            "category": "Facts 41-60",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/attitude.png"
+        },
+        {
+            "category": "Facts 61-80",
+            "image": "https://raw.githubusercontent.com/Pethuvignesh/jdkakhcsbcssjcjj/master/images/life.png"
+        }
+    ]
+}
